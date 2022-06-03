@@ -1,3 +1,5 @@
+task: get api from url, convert to json. Make unittest (use mock function)
+
 Instruction:
 Use Linux, Python3
 1. open terminal
